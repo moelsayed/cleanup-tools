@@ -1,8 +1,7 @@
 cleanup-tools
 ========
 
-## ***FILL THIS OUT WITH A USEFUL DESCRIPTION OF THIS REPO***
-
+Simple tool to remove rancher 2.0 management deployments.
 ## Building
 
 `make`
